@@ -13,3 +13,7 @@ disp(X_s1);
 // Cov(Xs):
 // [ 0.0797, -0.0103]
 // [-0.0103,   0.077]
+
+
+% Note:
+% In order to improve the estimate of Cov(Xs), we need to increase the sample vectors i.e. we need to take samples more than 10000 since we have observed previously that as the sample size increases, the approximation improves following the Law of Large Numbers.
