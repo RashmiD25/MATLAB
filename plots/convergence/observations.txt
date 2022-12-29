@@ -1,3 +1,3 @@
-Similar to the previous questions, this demo is created for proving convergence of Y generated using 3 different distributions: Normal, Uniform, Exponential. Following the reference paper, we take T=2000 (sample size) and M=500 (number of realizations). The convergence of distribution of Y is again consistent with the Law of Large numbers.
+this demo is created for proving convergence of Y generated using 3 different distributions: Normal, Uniform, Exponential. Following the reference paper, we take T=2000 (sample size) and M=500 (number of realizations). The convergence of distribution of Y is again consistent with the Law of Large numbers.
 
 In case of Normal distribution, we observe that Y converges in mean value of X i.e; E[X]=0; but the convergence in probability in case of uniform and exponential distributions are E[X]=0.5 and E[X]=1 respectively. We can observe similar conclusions for almost sure convergence and convergence in rth  mean.
