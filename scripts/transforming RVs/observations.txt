@@ -1,0 +1,5 @@
+•	By consulting standard probability density functions, the closest pdf that matches the distribution of Y for all the above nine cases is Gaussian Distribution. The mean of the distribution corresponds to the mean of the distribution of X that was used to generate the samples of Y and variance of the Normal distribution is equal to 𝜎√𝑛, where 𝜎 is the standard deviation of X.
+
+•	It is also observed that the results obtained in this section is in accordance with the Central Limit Theorem (CLT) which states that “As the sample size increases, the sampling distribution of the mean, Y, can be approximated by a Normal Distribution, with mean µ and standard deviation 𝜎√𝑛 where: µ is the population mean, 𝜎 is the population standard deviation.”
+
+•	Summarizing this, if we continuously take independent random samples of size n from any population, then for a large ‘n’, the distribution of the sample means will gradually approach a normal distribution.
